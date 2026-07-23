@@ -4,7 +4,7 @@ A modern and responsive developer portfolio built with **React.js**, **Vite**, *
 
 ## 🚀 Live Demo
 
-🌐 https://poetic-pudding-5853ce.netlify.app/
+🌐 https://rajkumarrajput.netlify.app/
 
 ## 🛠 Tech Stack
 
