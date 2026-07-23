@@ -61,7 +61,7 @@ export default function Contact() {
             </a>
 
             <a
-              href="linkedin.com/in/rajkumar-rajput-68354323b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+              href="https://www.linkedin.com/in/rajkumar-rajput-68354323b"
               target="_blank"
               rel="noreferrer"
               className="text-4xl hover:text-cyan-400"
