@@ -1,16 +1,43 @@
-# React + Vite
+# 💼 Rajkumar Rajput Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive developer portfolio built with **React.js**, **Vite**, **Tailwind CSS**, and **Framer Motion**.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🌐 https://poetic-pudding-5853ce.netlify.app/
 
-## React Compiler
+## 🛠 Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Tailwind CSS
+- Framer Motion
+- AWS
 
-## Expanding the ESLint configuration
+## 📂 Featured Projects
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🎓 NITC Placement Website
+- 💰 Expense Management System
+- 📦 Internal Order & Service Management System
+- 🛒 Xcite eCommerce Platform
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/Rajkumar77469/portfolio.git
+cd portfolio
+npm install
+npm run dev
+```
+
+## 📬 Contact
+
+- 📧 Email: rajkumarrajput806@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/rajkumar-rajput-68354323b
+- 🐙 GitHub: https://github.com/Rajkumar77469
+
+---
+
+⭐ If you like this project, don't forget to star the repository!
